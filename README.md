@@ -1,5 +1,5 @@
 <p align="center">
-  <a href= "https://sethusenthil.com/?ref=github" target="_blank"><img src="https://github.com/SethuSenthil/SethuSenthil/raw/master/preview.gif"/></a>
+  <a href= "https://sethusenthil.com/?ref=github" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/preview.gif"/></a>
 </p>
 
 <p align="center">
