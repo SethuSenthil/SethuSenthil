@@ -10,4 +10,8 @@
 <a href= "sms:sethunarayansenthil@gmail.com" target="_blank"><img src="https://img.icons8.com/windows/32/000000/sms--v1.png"/></a>
 </p>
 
+<p align="center">
+    <a href= "https://nowplaying.sethusenthil.com/open" target="_blank"><img src="https://nowplaying.sethusenthil.com/nowplayingimg"/></a>
+</p>
+
 <img src="https://github-visitors.glitch.me/"/>
