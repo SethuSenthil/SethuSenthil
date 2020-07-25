@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-    <a href= "https://nowplaying.sethusenthil.com/open" target="_blank"><img src="https://nowplaying.sethusenthil.com/nowplayingimg"/></a>
+    <a href= "https://nowplaying.sethusenthil.com/open" target="_blank"><img src="https://nowplaying.sethusenthil.com/nowplaying.svg"/></a>
 </p>
 
 <img src="https://github-visitors.glitch.me/"/>
