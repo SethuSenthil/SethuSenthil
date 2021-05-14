@@ -11,7 +11,7 @@
 </p>
 
 - 🏫 Senior at South Brunswick Highschool
-- 📟 <b>2 Million+ Active Users</b> for <a href="https://sethusenthil.com/#projects">my stuff</a>
+- 📟 <b>3 Million+ Active Users</b> for <a href="https://sethusenthil.com/#projects">my stuff</a>
 - 💬 <a href="https://discordapp.com/users/313477440708280330">Discord</a>, <a href="https://t.me/joinchat/a-QOLtZCSIwzNmQx">Telegram</a>
 - ✨ StarWars, Marvel & Avatar fan lol
 
