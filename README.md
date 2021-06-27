@@ -1,11 +1,10 @@
 # <img src="https://sethusenthil.com/SethuSenthil/assets/waving-hand.webp" height="50"/>, I'm Sethu Senthil
 
- <h2 align="center">Web & Mobile Developer | Maker | Content Creator</h2>
+ <h2 align="center">Web & Mobile Developer | Security Researcher | Content Creator</h2>
 
 <p align="center">
   <a href= "https://sethusenthil.com/?ref=github" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/domain.webp"/></a>
   <a href= "https://twitter.com/SethuSenthilll" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/twitter.webp"/></a>
-  <a href= "https://instagram.com/sethui9" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/instagram.webp"/></a>
   <a href= "https://www.linkedin.com/in/sethunsenthil/" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/linkdin.webp"/></a>
   <a href= "mailto:github@sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/email.webp"/></a>
 </p>
