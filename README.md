@@ -9,7 +9,7 @@
   <a href= "mailto:github@sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/email.webp"/></a>
 </p>
 
-- 🏫 Senior at South Brunswick Highschool
+- 🏫 Freshman at Penn State
 - 📟 <b>3 Million+ Active Users</b> for <a href="https://sethusenthil.com/#projects">my stuff</a>
 - 💬 <a href="https://discordapp.com/users/313477440708280330">Discord</a>, <a href="https://t.me/joinchat/a-QOLtZCSIwzNmQx">Telegram</a>
 - ✨ StarWars, Marvel & Avatar fan lol
