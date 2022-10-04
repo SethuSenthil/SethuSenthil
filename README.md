@@ -9,9 +9,10 @@
   <a href= "mailto:github@sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/email.webp"/></a>
 </p>
 
-- 🏫 Freshman at Penn State
-- 📟 <b>3 Million+ Active Users</b> for <a href="https://sethusenthil.com/#projects">my stuff</a>
+- 🏫 Sophomore at Penn State
+- 📟 <b>8 Million+ Active Users</b> for <a href="https://sethusenthil.com/#projects">my stuff</a>
 - 💬 <a href="https://discordapp.com/users/313477440708280330">Discord</a>, <a href="https://t.me/joinchat/a-QOLtZCSIwzNmQx">Telegram</a>
 - ✨ StarWars, Marvel & Avatar fan lol
+- 🎧 Probably listening to The Weeknd
 
 <img src="https://github-visitors.glitch.me/" height="0"/>
