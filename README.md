@@ -5,7 +5,7 @@
 <p align="center">
   <a href= "https://sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/domain.webp"/></a>
   <a href= "https://twitter.com/SethuSenthilll" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/twitter.webp"/></a>
-  <a href= "https://www.linkedin.com/in/sethunsenthil" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/linkdin.webp"/></a>
+  <a href= "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sethunsenthil" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/linkdin.webp"/></a>
   <a href= "https://email.sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/email.webp"/></a>
 </p>
 
