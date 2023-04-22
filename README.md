@@ -10,11 +10,20 @@
 </p>
 
 - <details closed>
+    <summary>💼 Founder and CEO of Vibin™</summary>
+    <ul>
+        <li>🌐 <a href="https://vibin.llc">Official Vibin™ Website</a> </li>
+        <li>🔗 <a href="https://www.linkedin.com/company/91170699">Company Linkedin Page</a> </li>
+       </li>
+    </ul>
+</details>
+
+- <details closed>
     <summary>🏫 <a href="https://github.sethusenthil.com/list/psu">Sophomore at Penn State</a></summary>
     <ul>
         <li>💻 Studying Computer Science (BS)</li>
         <li>🎓 Super Scholar Award</li>
-        <li>🔬 <a href="https://www.gokhanozden.com/research/augmented-reality-based-warehouse-design/">Undergraduate Research Program</a></li>
+        <li>🔬 <a href="https://sites.psu.edu/abingtonundergradresearchfair2023/2023/03/08/using-augmented-reality-to-design-and-analyze-warehouses">Undergraduate Research Program</a></li>
     </ul>
 </details>
 
