@@ -32,6 +32,7 @@
     <ul>
         <li>🎵 <a href="https://savetok.app" target="_blank">SaveTok</a></li>
         <li>💬 <a href="https://stickpic.app" target="_blank">StickPic</a></li>
+        <li>🔔 <a href="https://liveminder.vibin.llc" target="_blank">Live Minder</a></li>
         <li>🎮 <a href="https://tikmoji.sethusenthil.com" target="_blank">TikMoji</a></li>
         <li>📋 <a href="https://copygpt.sethusenthil.com" target="_blank">CopyGPT</a></li>
         <li>🩻 <a href="https://randoscreen.sethusenthil.com" target="_blank">RandoScreen</a></li>
