@@ -3,10 +3,11 @@
  <h2 align="center">💻 Web & Mobile Developer | 💼 Entrepreneur | 🔓 Security Researcher</h2>
 
 <p align="center">
-  <a href= "https://sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/domain.webp"/></a>
-  <a href= "https://twitter.com/SethuSenthilll" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/twitter.webp"/></a>
-  <a href= "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sethunsenthil" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/linkdin.webp"/></a>
-  <a href= "https://email.sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/email.webp"/></a>
+  <a href= "https://sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/domain.svg"/></a>
+  <a href= "https://www.threads.net/@sethui9" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/instagram.svg"/></a>
+  <a href= "https://twitter.com/SethuSenthilll" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/twitter.svg"/></a>
+  <a href= "https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=sethunsenthil" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/linkedin.svg"/></a>
+  <a href= "https://email.sethusenthil.com" target="_blank"><img src="https://sethusenthil.com/SethuSenthil/assets/email.svg"/></a>
 </p>
 
 - <details closed>
