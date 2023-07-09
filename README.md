@@ -40,6 +40,6 @@
       </ul>
   </details>
 
-- <img src="https://sethusenthil.com/SethuSenthil/assets/Animals/Octopus.png" alt="Octopus" width="25" height="25" /> Open Source Contributor
+- <img src="https://sethusenthil.com/SethuSenthil/assets/Octopus.png" alt="Octopus" width="25" height="25" /> Open Source Contributor
 - 💬 <a href="https://discordapp.com/users/313477440708280330">Discord</a>, <a href="https://t.me/joinchat/a-QOLtZCSIwzNmQx">Telegram</a>
 - <img src="https://sethusenthil.com/SethuSenthil/assets/Musical%20Notes.png" alt="Musical Notes" width="25" height="25" /> Probably listening to The Weeknd
