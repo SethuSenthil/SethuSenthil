@@ -20,7 +20,7 @@
   </details>
 
 - <details closed>
-      <summary><img src="https://sethusenthil.com/SethuSenthil/assets/School.png" alt="School" width="25" height="25" /> <a href="https://github.sethusenthil.com/list/psu">Junior at Penn State</a></summary>
+      <summary><img src="https://sethusenthil.com/SethuSenthil/assets/School.png" alt="School" width="25" height="25" /> <a href="https://github.sethusenthil.com/list/psu">Senior at Penn State</a></summary>
       <ul>
           <li>💻 Studying Computer Science (BS)</li>
           <li>🎓 Super Scholar Award</li>
